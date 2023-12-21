@@ -1,6 +1,6 @@
-# Ming Ming's Portfolio Website
+# Ming's Portfolio Website
 
-Welcome to my personal portfolio website, a central hub showcasing my past work and professional accomplishments. This site is designed to give you a comprehensive look at my skills and experiences, reflecting my journey and achievements in the field of [Your Field/Specialization].
+Welcome to my personal portfolio website, a central hub showcasing my past work and professional accomplishments. This site is designed to give you a comprehensive look at my skills and experiences, reflecting my journey and achievements in the field of Information Systems.
 
 ## Description
 
